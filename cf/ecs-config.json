@@ -1,0 +1,8 @@
+{
+  "KeyName": "ec2-key-dev",
+  "SubnetId": [
+    "subnet-4ccfa628",
+    "subnet-6f598632"
+  ],
+  "VpcId": "vpc-bd1b77c5"
+}
