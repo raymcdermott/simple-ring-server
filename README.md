@@ -1,3 +1,7 @@
+# Build status
+
+![Build Status](https://codebuild.us-east-1.amazon.com/badges?uuid=...&branch=master)
+
 # simple-ring-server
 
 A Clojure library designed to ... well, that part is up to you.
